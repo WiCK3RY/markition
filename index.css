@@ -1,0 +1,14 @@
+:root {
+    --alpha: #F9FCFF;
+    --beta: #001730;
+    --gamma: #0077FF;
+    --delta: #7700FF;
+    --epsilon: #00FF77;
+    --zeta: #FF0030;
+}
+
+body {
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-drag: none;
+}
